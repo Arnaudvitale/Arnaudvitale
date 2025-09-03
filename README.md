@@ -5,7 +5,7 @@
 </a>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,linux,vscode,bash,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongoDB,mysql,linux,vscode,bash,postman" />
 </a>
 
 <h2 align="center">⚡ Stats ⚡</h2>
