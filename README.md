@@ -1,29 +1,17 @@
-# 👋 Hey, I’m Arnaud Vitale
+# Arnaud Vitale
 
-🎓 Student at [EPITECH](https://www.epitech.eu) (2021-2026)
-🌍 Currently in Barcelona for my 4th year, focused on **IoT & embedded systems**  
-💻 I enjoy building software, experimenting with IoT, and working on projects that connect **hardware and software**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,php,symfony" />
+</a>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,linux,vscode,bash,postman" />
+</a>
 
----
-
-## 🚀 Skills
-
-- **Languages**: C, C++, Python, JavaScript  
-- **Web & Apps**: Node.js, React, Electron, HTML/CSS, PHP (Symfony)  
-- **Databases**: MongoDB Atlas, Firebase  
-- **Tools**: Docker  
-- **IoT**: Raspberry Pi, gesture recognition  
-
----
-
-## 💼 Experience
-
-- **Intern – WIT (2022)**: built an application for the construction industry  
-- **Intern – Université Côte d’Azur (2024)**: complete rebuild of the university’s directory in Symfony  
-
----
-
-## 🌱 Currently
-
-- Exploring **IoT**, **embedded systems**, and a bit of **DevOps**  
-- Working on side projects around human-computer interaction
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/ArnaudVitale/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudVitale&title_color=ff652f&text_color=ffffff&icon_color=ff652f&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=codeSTACKr&border_color=ff652f&hide=css" />
+  </a>
+</div>
