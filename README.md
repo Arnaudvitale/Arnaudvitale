@@ -1,7 +1,7 @@
 # Arnaud Vitale
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,php,symfony, laravel" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,php,symfony,laravel" />
 </a>
 <br>
 <a href="https://skillicons.dev">
