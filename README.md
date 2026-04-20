@@ -4,6 +4,9 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,nextjs,astro,electron,php,symfony,laravel,tailwind" />
 </a>
 <br>
+<br>
+Outils :
+<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,mysql,linux,vscode,vite,bash,postman,notion" />
 </a>
