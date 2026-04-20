@@ -1,11 +1,11 @@
 # Arnaud Vitale
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,php,symfony,laravel" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,nextjs,astro,electron,php,symfony,laravel,tailwind" />
 </a>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,mysql,linux,vscode,bash,postman,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,mysql,linux,vscode,vite,bash,postman,notion" />
 </a>
 
 <h2 align="center">⚡ Stats ⚡</h2>
