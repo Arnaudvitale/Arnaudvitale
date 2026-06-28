@@ -1,5 +1,5 @@
 # Arnaud Vitale
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,nodejs,express,react,nextjs,astro,electron,php,symfony,laravel,spring,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,nodejs,express,react,angular,nextjs,astro,electron,php,symfony,laravel,spring,tailwind)](https://skillicons.dev)
 <br>
 ## Outils
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,mysql,aws,linux,vscode,vite,bash,postman,notion)](https://skillicons.dev)
